@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Projects   
-
+NTU Women In Tech Beyond Binary Hackathon Submission (Finalist): ![AURA Agentic Accesibility Browser](https://github.com/GlacierBlitz/AURA)
 ---
 
 ## 📈 GitHub Stats  
