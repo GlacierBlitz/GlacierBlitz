@@ -1,33 +1,40 @@
-# 👋 Hi, I’m Kai Jie
+# Hi, I'm Kai Jie 👋
 
-🎓 Undergraduate student studying **Data Science & AI** at NTU  
-💡 Interested in **computer vision**, **machine learning**, and building personal projects that help me learn by doing  
-🌱 Currently exploring **deep learning frameworks** and working on small projects to sharpen my skills  
+Year 2 **Data Science & AI** student at Nanyang Technological University, Singapore.
+
+I work on **LLM reasoning efficiency** and **embodied AI agents** — and I build things on the side to learn by doing. Co-author of an [ICML 2026 submission](https://arxiv.org/abs/2602.03485) on suppressing redundant self-verification in large reasoning models.
 
 ---
 
-## 🛠️ Tech & Tools  
-- **Languages:** Python, Java, JavaScript  
-- **Libraries/Frameworks:** numpy, pandas, transformers  
-- **Other Tools:** Git, Linux  
+## 🔬 Research
+
+- **Test-Time Efficiency in LLMs** — Designed an experience-driven framework that identifies and suppresses redundant self-verification steps in LLM reasoning traces. Built evaluation pipelines using vLLM on multi-GPU clusters across Qwen, DeepSeek, and GPT-OSS models. *(NTU URECA, Aug 2025 – Present)*
+- **LLM-Powered Embodied Agents** — Developed an autonomous Minecraft agent integrating natural language understanding with real-time game-state awareness. *(Alibaba-NTU ANGEL Lab, Jun – Jul 2025)*
 
 ---
 
 ## 📌 Projects
-- NTU Women In Tech Beyond Binary Hackathon Submission (Top 7 Finalist): ![AURA Agentic Accesibility Browser](https://github.com/GlacierBlitz/AURA)
+
+- [**AURA — Agentic Accessibility Browser**](https://github.com/GlacierBlitz/AURA) · *Finalist, NTU Beyond Binary Hackathon 2026*
+  Voice- and text-controlled browser that translates natural language into web interactions. Uses an LLM planning framework with AX tree + DOM parsing and Chrome DevTools Protocol automation.
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GlacierBlitz&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlacierBlitz&layout=compact&theme=tokyonight)  
+## 🛠️ Skills
+
+**Languages:** Python, Java, SQL, JavaScript, R, Bash
+**ML / AI:** PyTorch, HuggingFace Transformers, vLLM, scikit-learn, RAG
+**Tools:** Git, Linux, Docker, SSH
 
 ---
 
-## 📫 Connect with me  
-- 💼 [LinkedIn](www.linkedin.com/in/kai-jie-jiang-b50494219)  
-- 📧 Email: your.email@example.com  
+## 📄 Publication
+
+> Long, Q., **Jiang, K. J.**, Chen, J., Guo, X., Gan, L., & Wang, W. (2026). *Self-Verification Dilemma: Experience-Driven Suppression of Overused Checking in LLM Reasoning.* [arXiv:2602.03485](https://arxiv.org/abs/2602.03485). Under review at ICML 2026.
 
 ---
 
-⚡ *I use this space to document what I’m learning, share personal projects, and track my growth as a developer.*  
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiangkaijie)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:KJIANG009@e.ntu.edu.sg)
