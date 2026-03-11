@@ -14,7 +14,8 @@ I work on **LLM reasoning efficiency** and **embodied AI agents** — and I buil
 ---
 
 ## 📌 Projects
-
+- [**NOVA — Node Oriented Visualisation Aide**](https://github.com/GlacierBlitz/mlda-dlw-bos-angels) · MLDA Deep Learning Week Hackathon
+AI-powered interactive learning maps that transform subjects into navigable concept graphs. Features a Socratic AI tutor (GPT-4o), prerequisite-gated unlock system, and auto-generated quizzes. Built with FastAPI, React + TypeScript, D3.js, and SQLAlchemy.
 - [**AURA — Agentic Accessibility Browser**](https://github.com/GlacierBlitz/AURA) · *Finalist, NTU Beyond Binary Hackathon 2026*
   Voice- and text-controlled browser that translates natural language into web interactions. Uses an LLM planning framework with AX tree + DOM parsing and Chrome DevTools Protocol automation.
 
